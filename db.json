@@ -1,12 +1,12 @@
 {
-    firstName: "Karin",
-    lastName: "Henriksen",
-    streetName: "INDUSTRIVÆNGET",
-    streetNumber: "2",
-    floorId: "ST",
-    suiteId: "TH",
-    postCode: "9000",
-    postArea: "AALBORG",
-    placeName: "HASSERIS",
-    houseKey: "870010041"
+    "firstName": "Karin",
+    "lastName": "Henriksen",
+    "streetName": "INDUSTRIVÆNGET",
+    "streetNumber": "2",
+    "floorId": "ST",
+    "suiteId": "TH",
+    "postCode": "9000",
+    "postArea": "AALBORG",
+    "placeName": "HASSERIS",
+    "houseKey": "870010041"
 }
