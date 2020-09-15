@@ -1,5 +1,5 @@
 {
-  "user": [
+  "user": 
     {
     "firstName": "Karin",
     "lastName": "Henriksen",
@@ -12,5 +12,4 @@
     "placeName": "HASSERIS",
     "houseKey": "870010041"
 }
-  ]
 }  
