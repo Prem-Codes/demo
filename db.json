@@ -1,4 +1,6 @@
 {
+  "user": [
+    {
     "firstName": "Karin",
     "lastName": "Henriksen",
     "streetName": "INDUSTRIVÆNGET",
@@ -10,3 +12,5 @@
     "placeName": "HASSERIS",
     "houseKey": "870010041"
 }
+  ]
+}  
