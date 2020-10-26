@@ -1,11 +1,11 @@
 {
     "product":
     {
-    "styleNumber": "12345678",
+    "styleNumber": 12345678,
     "styleName": "INDUSTRIVÆNGET",
     "styleOptions":
         {
-            "styleOptionNumber": "123456",
+            "styleOptionNumber": 123456,
             "styleOptionName": "Ripped superman shirt -petit",
             "styleOptionColour": "Red"
         }
